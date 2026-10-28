@@ -1,0 +1,2 @@
+# CyberArk-Defender-PAM-Privileged-Access-Management-
+The CyberArk Defender-PAM Certification validates practical knowledge and technical skills required to manage daily operations and maintain CyberArk Privileged Access Management (PAM) solutions. It demonstrates a candidate’s ability to support applications, administer the CyberArk Vault,provision safes and platforms,and onboard privileged accounts.
